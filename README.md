@@ -51,6 +51,6 @@ Normally, resetting the array and the array itself would be _decoupled_ — that
 
 ## Resources
 
-- [npm](https://npmjs.org)
+- [npm](https://npmjs.org)  {REALLY?  Isn't this a typo, and supposed to be MDN?}
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/javascript-arrays-lab'>Javascript Arrays Lab</a> on Learn.co and start learning to code for free.</p>
